@@ -7,10 +7,11 @@ Hello there, Birthday Bot is the bot that wishes people a happy birthday in Redd
 
 # About the code
 
-This bot was written in Python 3.7 and it currently runs on Python 3.8 24/7 at my local server.
+This bot was written in Python 3.7 and it ~~currently runs on Python 3.8 24/7 at my local server.~~ is banned from r/teenagers so it doesn't runs.
 
 # Other notes
 
+I have been banned from r/teenagers **3** times now.
 I hope the mods read this and give me a more detailed explanation on why you're banning this wholesome bot.
 
 Thanks!
